@@ -7,8 +7,7 @@ Bu proje, HTML ve Tailwind CSS kullanılarak oluşturulmuş, kullanıcı yorumla
 ## Canlı Önizleme
 
 Projeyi canlı görmek için:  
-[Siteyi Görüntüle](#)  <!-- Buraya canlı sitenin linki eklenebilir -->
-
+[Siteyi Görüntüle](https://eraykiyici.github.io/review-page/)  
 ---
 
 ## Dosyalar
